@@ -26,6 +26,13 @@
   font-size: 17px;
 }
 
+<div class="topnav">
+  <a class="active" href="index.html">About Me</a>
+  <a href="apps.html">Games</a>
+  <a href="pictures.html">Pictures</a>
+
+</div>
+
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
